@@ -16,12 +16,10 @@ export class Theme{
     let txt = "";
     for(let c = 0; c < text.length; c++){
       let char = text[c];
-      let thm = {
-        "background": theme?.background instanceof Array ? theme.background[c % theme.background.length] : theme.background,
-        "text": theme?.text instanceof Array ? theme.text[c % theme.text.length] : theme.text,
-      };
-      if(thm.background)char = colors.bgRgb24(char,this.hexToRGB(thm.background));
-      if(thm.text)char = colors.rgb24(char,this.hexToRGB(thm.text));
+      let bg = theme?.background instanceof Array ? theme.background[c % theme.background.length] : theme?.background;
+      let txt = theme?.text instanceof Array ? theme.text[c % theme.text.length] : theme?.text;
+      if(bg)char = colors.bgRgb24(char,this.hexToRGB(bg));
+      if(txt)char = colors.rgb24(char,this.hexToRGB(txt));
       txt += char;
     }
     return txt;
