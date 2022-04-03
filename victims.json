@@ -8,6 +8,14 @@
     }
   },
   {
+    "alias": "Casper0x413",
+    "keywords": ["Casper"],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#484848"
+    }
+  },
+  {
     "alias": "Facebook",
     "keywords": [],
     "theme": {
