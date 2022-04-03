@@ -17,9 +17,9 @@ export class Theme{
     for(let c = 0; c < text.length; c++){
       let char = text[c];
       let bg = theme?.background instanceof Array ? theme.background[c % theme.background.length] : theme?.background;
-      let txt = theme?.text instanceof Array ? theme.text[c % theme.text.length] : theme?.text;
+      let tx = theme?.text instanceof Array ? theme.text[c % theme.text.length] : theme?.text;
       if(bg)char = colors.bgRgb24(char,this.hexToRGB(bg));
-      if(txt)char = colors.rgb24(char,this.hexToRGB(txt));
+      if(tx)char = colors.rgb24(char,this.hexToRGB(tx));
       txt += char;
     }
     return txt;
