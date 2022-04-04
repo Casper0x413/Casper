@@ -51,7 +51,6 @@ export class Theme{
     }
   }
   static style(text,theme){
-    // make compatible with both hex and rgb
     if(!text || typeof text != "string")return;
     let txt = "";
     for(let c = 0; c < text.length; c++){
