@@ -32,6 +32,14 @@
     }
   },
   {
+    "alias": "Bank Of America",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#012169"
+    }
+  },
+  {
     "alias": "Casper0x413",
     "keywords": ["Casper"],
     "theme": {
@@ -40,10 +48,34 @@
     }
   },
   {
+    "alias": "Cisco",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#00bceb"
+    }
+  },
+  {
+    "alias": "Dell",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#0076ce"
+    }
+  },
+  {
     "alias": "Discord",
     "keywords": [],
     "theme": {
       "background": "#5762ed",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "DoorDash",
+    "keywords": [],
+    "theme": {
+      "background": "#eb1700",
       "text": "#ffffff"
     }
   },
@@ -88,6 +120,22 @@
     }
   },
   {
+    "alias": "FedEx",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": ["#4d148c","#4d148c","#4d148c","#ff6600","#ff6600"]
+    }
+  },
+  {
+    "alias": "IBM",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#1356bd"
+    }
+  },
+  {
     "alias": "Instagram",
     "keywords": [],
     "theme": {
@@ -125,6 +173,30 @@
     "theme": {
       "background": ["#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#0a66c2","#0a66c2"],
       "text": ["#0a66c2","#0a66c2","#0a66c2","#0a66c2","#0a66c2","#0a66c2","#ffffff","#ffffff"]
+    }
+  },
+  {
+    "alias": "Lowe's",
+    "keywords": [],
+    "theme": {
+      "background": "#012169",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "MasterCard",
+    "keywords": [],
+    "theme": {
+      "background": ["#eb001b","#eb001b","#eb001b","#eb001b","#ff5f00","#ff5f00","f79e1b","f79e1b","f79e1b","f79e1b"],
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "McDonald's",
+    "keywords": [],
+    "theme": {
+      "background": "#d8020c",
+      "text": ["#ffbb0e","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff"]
     }
   },
   {
@@ -232,6 +304,14 @@
     }
   },
   {
+    "alias": "Starbucks",
+    "keywords": [],
+    "theme": {
+      "background": "#006341",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "Steam",
     "keywords": [],
     "theme": {
@@ -240,11 +320,27 @@
     }
   },
   {
+    "alias": "Tesla",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#e82127"
+    }
+  },
+  {
     "alias": "TikTok",
     "keywords": [],
     "theme": {
       "background": "#000000",
       "text": ["#04f4ee","#ffffff","#fb014f"]
+    }
+  },
+  {
+    "alias": "The Home Depot",
+    "keywords": [],
+    "theme": {
+      "background": "#f96300",
+      "text": "#ffffff"
     }
   },
   {
@@ -264,11 +360,59 @@
     }
   },
   {
-    "alias": "vmware",
+    "alias": "Uber",
+    "keywords": [],
+    "theme": {
+      "background": "#000000",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "UPS",
+    "keywords": [],
+    "theme": {
+      "background": "#330000",
+      "text": "#ffbe00"
+    }
+  },
+  {
+    "alias": "USPS",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#333366"
+    }
+  },
+  {
+    "alias": "Visa",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#1434cb"
+    }
+  },
+  {
+    "alias": "VMware",
     "keywords": [],
     "theme": {
       "background": "#ffffff",
       "text": "#717074"
+    }
+  },
+  {
+    "alias": "Walmart",
+    "keywords": [],
+    "theme": {
+      "background": "#0071dc",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Wells Fargo",
+    "keywords": [],
+    "theme": {
+      "background": "#d71e28",
+      "text": "#ffffff"
     }
   },
   {
