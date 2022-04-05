@@ -99,8 +99,8 @@
     "alias": "Spotify",
     "keywords": [],
     "theme": {
-      "background": "#ffffff",
-      "text": "#1ed760"
+      "background": "#1ed760",
+      "text": "#ffffff"
     }
   },
   {
@@ -115,7 +115,7 @@
     "alias": "TikTok",
     "keywords": [],
     "theme": {
-      "background": "#000000",
+      "background": "#ffffff",
       "text": ["#04f4ee","#000000","#fb014f"]
     }
   },
