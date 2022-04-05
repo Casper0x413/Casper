@@ -16,8 +16,8 @@
     }
   },
   {
-    "alias": "AMD",
-    "keywords": [],
+    "alias": "Advanced Micro Devices",
+    "keywords": ["AMD"],
     "theme": {
       "background": "#000000",
       "text": "#ffffff"
@@ -89,7 +89,7 @@
   },
   {
     "alias": "Electronic Arts",
-    "keywords": [],
+    "keywords": ["EA"],
     "theme": {
       "background": "#ffffff",
       "text": "#ff4747"
@@ -105,15 +105,15 @@
   },
   {
     "alias": "Facebook",
-    "keywords": [],
+    "keywords": ["FB"],
     "theme": {
       "background": "#1877f2",
       "text": "#ffffff"
     }
   },
   {
-    "alias": "FBI",
-    "keywords": [],
+    "alias": "Federal Bureau of Investigation",
+    "keywords": ["FBI"],
     "theme": {
       "background": "#004990",
       "text": "#ffcf04"
@@ -128,8 +128,8 @@
     }
   },
   {
-    "alias": "IBM",
-    "keywords": [],
+    "alias": "International Business Machines",
+    "keywords": ["IBM"],
     "theme": {
       "background": "#ffffff",
       "text": "#1356bd"
@@ -160,8 +160,8 @@
     }
   },
   {
-    "alias": "HP",
-    "keywords": [],
+    "alias": "Hewlett-Packard",
+    "keywords": ["HP"],
     "theme": {
       "background": "#0096d6",
       "text": "#000000"
@@ -177,7 +177,7 @@
   },
   {
     "alias": "Lowe's",
-    "keywords": [],
+    "keywords": ["Lowes"],
     "theme": {
       "background": "#012169",
       "text": "#ffffff"
@@ -193,7 +193,7 @@
   },
   {
     "alias": "McDonald's",
-    "keywords": [],
+    "keywords": ["McDonalds"],
     "theme": {
       "background": "#d8020c",
       "text": ["#ffbb0e","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff"]
@@ -208,8 +208,8 @@
     }
   },
   {
-    "alias": "NASA",
-    "keywords": [],
+    "alias": "National Aeronautics and Space Administration",
+    "keywords": ["NASA"],
     "theme": {
       "background": "#033a92",
       "text": "#ffffff"
@@ -337,7 +337,7 @@
   },
   {
     "alias": "The Home Depot",
-    "keywords": [],
+    "keywords": ["Home Depot"],
     "theme": {
       "background": "#f96300",
       "text": "#ffffff"
@@ -368,19 +368,27 @@
     }
   },
   {
-    "alias": "UPS",
-    "keywords": [],
+    "alias": "United Parcel Service",
+    "keywords": ["UPS"],
     "theme": {
       "background": "#330000",
       "text": "#ffbe00"
     }
   },
   {
-    "alias": "USPS",
-    "keywords": [],
+    "alias": "United States Postal Service",
+    "keywords": ["USPS"],
     "theme": {
       "background": "#ffffff",
       "text": "#333366"
+    }
+  },
+  {
+    "alias": "VALVe",
+    "keywords": [],
+    "theme": {
+      "background": "#f74843",
+      "text": "#ffffff"
     }
   },
   {
@@ -417,7 +425,7 @@
   },
   {
     "alias": "YouTube",
-    "keywords": [],
+    "keywords": ["YT"],
     "theme": {
       "background": "#ff0000",
       "text": "#ffffff"
