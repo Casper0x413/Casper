@@ -115,8 +115,8 @@
     "alias": "TikTok",
     "keywords": [],
     "theme": {
-      "background": "#ffffff",
-      "text": ["#04f4ee","#000000","#fb014f"]
+      "background": "#000000",
+      "text": ["#04f4ee","#ffffff","#fb014f"]
     }
   },
   {
