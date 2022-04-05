@@ -16,10 +16,34 @@
     }
   },
   {
+    "alias": "Discord",
+    "keywords": [],
+    "theme": {
+      "background": "#5762ed",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "Facebook",
     "keywords": [],
     "theme": {
       "background": "#1877f2",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "FBI",
+    "keywords": [],
+    "theme": {
+      "background": "#004990",
+      "text": "#ffcf04"
+    }
+  },
+  {
+    "alias": "Instagram",
+    "keywords": [],
+    "theme": {
+      "background": ["#ffc550","#e24279","#cb35a9","#b22dba","#9631c5","#4b5fcb","#bf3896","#f84f4b","#ff7e43"],
       "text": "#ffffff"
     }
   },
@@ -29,6 +53,70 @@
     "theme": {
       "background": "#ffffff",
       "text": ["#4285f4","#ea4335","#fbbc05","#4285f4","#34a853","#ea4335"]
+    }
+  },
+  {
+    "alias": "Linkedin",
+    "keywords": [],
+    "theme": {
+      "background": ["#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#0a66c2","#0a66c2"],
+      "text": ["#0a66c2","#0a66c2","#0a66c2","#0a66c2","#0a66c2","#0a66c2","#ffffff","#ffffff"]
+    }
+  },
+  {
+    "alias": "NASA",
+    "keywords": [],
+    "theme": {
+      "background": "#033a92",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Pinterest",
+    "keywords": [],
+    "theme": {
+      "background": "#b7081b",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Reddit",
+    "keywords": [],
+    "theme": {
+      "background": "#ff4500",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "SnapChat",
+    "keywords": [],
+    "theme": {
+      "background": "#fffc00",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Spotify",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#1ed760"
+    }
+  },
+  {
+    "alias": "Skype",
+    "keywords": [],
+    "theme": {
+      "background": "#018adc",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "TikTok",
+    "keywords": [],
+    "theme": {
+      "background": "#000000",
+      "text": ["#04f4ee","#000000","#fb014f"]
     }
   },
   {
