@@ -1,4 +1,9 @@
-import * as colors  from "https://deno.land/std@0.130.0/fmt/colors.ts";
+import {rgb24,bgRgb24}  from "https://deno.land/std@0.130.0/fmt/colors.ts";
+
+const rgb = {
+  "background": bgRgb24,
+  "text": rgb24
+};
 
 export class Theme{
   static hexToRGB(hex){
@@ -59,8 +64,8 @@ export class Theme{
       let tx = theme?.text instanceof Array ? theme.text[c % theme.text.length] : theme?.text;
       if(this.validHex(bg))bg = this.hexToRGB(bg);
       if(this.validHex(tx))tx = this.hexToRGB(tx);
-      if(this.validRGB(bg))char = colors.bgRgb24(char,bg);
-      if(this.validRGB(tx))char = colors.rgb24(char,tx);
+      if(this.validRGB(bg))char = rgb.background(char,bg);
+      if(this.validRGB(tx))char = rgb.text(char,tx);
       txt += char;
     }
     return txt;
