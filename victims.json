@@ -8,6 +8,14 @@
     }
   },
   {
+    "alias": "Advanced Micro Devices",
+    "keywords": ["AMD"],
+    "theme": {
+      "background": "#000000",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "Amazon",
     "keywords": [],
     "theme": {
@@ -16,10 +24,10 @@
     }
   },
   {
-    "alias": "Advanced Micro Devices",
-    "keywords": ["AMD"],
+    "alias": "AOL",
+    "keywords": [],
     "theme": {
-      "background": "#000000",
+      "background": "#2f9aff",
       "text": "#ffffff"
     }
   },
@@ -40,6 +48,38 @@
     }
   },
   {
+    "alias": "Battle.net",
+    "keywords": [],
+    "theme": {
+      "background": "#15171e",
+      "text": "#148eff"
+    }
+  },
+  {
+    "alias": "Bitly",
+    "keywords": [],
+    "theme": {
+      "background": "#eb5620",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Blizzard",
+    "keywords": [],
+    "theme": {
+      "background": "#0b0d12",
+      "text": "#009ae4"
+    }
+  },
+  {
+    "alias": "Cash App",
+    "keywords": [],
+    "theme": {
+      "background": "#00d632",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "Casper0x413",
     "keywords": ["Casper"],
     "theme": {
@@ -53,6 +93,14 @@
     "theme": {
       "background": "#ffffff",
       "text": "#00bceb"
+    }
+  },
+  {
+    "alias": "Coinbase",
+    "keywords": [],
+    "theme": {
+      "background": "#0052fe",
+      "text": "#ffffff"
     }
   },
   {
@@ -128,11 +176,51 @@
     }
   },
   {
-    "alias": "International Business Machines",
-    "keywords": ["IBM"],
+    "alias": "GitHub",
+    "keywords": [],
+    "theme": {
+      "background": "#000000",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Gmail",
+    "keywords": [],
     "theme": {
       "background": "#ffffff",
-      "text": "#1356bd"
+      "text": ["#4285f4","#ea4335","#fbbc05","#4285f4","#34a853","#ea4335"]
+    }
+  },
+  {
+    "alias": "Google",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": ["#4285f4","#ea4335","#fbbc05","#4285f4","#34a853","#ea4335"]
+    }
+  },
+  {
+    "alias": "Guitar Center",
+    "keywords": [],
+    "theme": {
+      "background": "#e7131a",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Hewlett-Packard",
+    "keywords": ["HP"],
+    "theme": {
+      "background": "#0096d6",
+      "text": "#000000"
+    }
+  },
+  {
+    "alias": "Imgur",
+    "keywords": [],
+    "theme": {
+      "background": "#1bb76e",
+      "text": "#ffffff"
     }
   },
   {
@@ -152,19 +240,11 @@
     }
   },
   {
-    "alias": "Google",
-    "keywords": [],
+    "alias": "International Business Machines",
+    "keywords": ["IBM"],
     "theme": {
       "background": "#ffffff",
-      "text": ["#4285f4","#ea4335","#fbbc05","#4285f4","#34a853","#ea4335"]
-    }
-  },
-  {
-    "alias": "Hewlett-Packard",
-    "keywords": ["HP"],
-    "theme": {
-      "background": "#0096d6",
-      "text": "#000000"
+      "text": "#1356bd"
     }
   },
   {
@@ -181,6 +261,14 @@
     "theme": {
       "background": "#012169",
       "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Malwarebytes",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#004ddc"
     }
   },
   {
@@ -224,6 +312,14 @@
     }
   },
   {
+    "alias": "Newegg",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#09144f"
+    }
+  },
+  {
     "alias": "Nintendo",
     "keywords": [],
     "theme": {
@@ -245,6 +341,14 @@
     "theme": {
       "background": "#3a3632",
       "text": "#c74634"
+    }
+  },
+  {
+    "alias": "Outlook",
+    "keywords": [],
+    "theme": {
+      "background": "#0e7ce1",
+      "text": "#ffffff"
     }
   },
   {
@@ -280,6 +384,14 @@
     }
   },
   {
+    "alias": "Shazam",
+    "keywords": [],
+    "theme": {
+      "background": "#4ccbff",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "SnapChat",
     "keywords": [],
     "theme": {
@@ -292,6 +404,14 @@
     "keywords": [],
     "theme": {
       "background": "#018adc",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Sony",
+    "keywords": [],
+    "theme": {
+      "background": "#000000",
       "text": "#ffffff"
     }
   },
@@ -384,6 +504,14 @@
     }
   },
   {
+    "alias": "Uphold",
+    "keywords": [],
+    "theme": {
+      "background": "#49cc68",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "VALVe",
     "keywords": [],
     "theme": {
@@ -420,6 +548,14 @@
     "keywords": [],
     "theme": {
       "background": "#d71e28",
+      "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Yahoo!",
+    "keywords": [],
+    "theme": {
+      "background": "#6001d2",
       "text": "#ffffff"
     }
   },
