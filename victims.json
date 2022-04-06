@@ -96,6 +96,14 @@
     }
   },
   {
+    "alias": "Coca Cola",
+    "keywords": [],
+    "theme": {
+      "background": "#f40000",
+      "text": "#ffffff"
+    }
+  },
+  {
     "alias": "Coinbase",
     "keywords": [],
     "theme": {
@@ -117,6 +125,14 @@
     "theme": {
       "background": "#5762ed",
       "text": "#ffffff"
+    }
+  },
+  {
+    "alias": "Disney",
+    "keywords": [],
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000"
     }
   },
   {
@@ -312,11 +328,11 @@
     }
   },
   {
-    "alias": "Newegg",
+    "alias": "  Newegg",
     "keywords": [],
     "theme": {
-      "background": "#ffffff",
-      "text": "#09144f"
+      "background": ["#ffffff","#ffbb00","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff"],
+    "text": "#002d6a"
     }
   },
   {
@@ -357,6 +373,14 @@
     "theme": {
       "background": "#ffffff",
       "text": ["#012f86","#012f86","#012f86","#0296d7","#0296d7","#0296d7"]
+    }
+  },
+  {
+    "alias": "  Pepsi",
+    "keywords": [],
+    "theme": {
+      "background": ["#ea0727","#ffffff","#004a98","#004a98","#004a98","#004a98","#004a98"],
+      "text": "#ffffff"
     }
   },
   {
