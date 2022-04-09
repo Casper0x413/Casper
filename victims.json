@@ -329,7 +329,7 @@
   },
   {
     "alias": "  Newegg",
-    "keywords": [],
+    "keywords": ["newegg"],
     "theme": {
       "background": ["#ffffff","#ffbb00","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff","#ffffff"],
     "text": "#002d6a"
