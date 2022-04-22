@@ -24,7 +24,7 @@ Navigate to the ```.deno``` directory and look for files labeled ```Casper``` an
 ***CON***
 - Provides slower load times
 
-## Casper Commands
+# Casper Commands
 - ```exit```
 - ```quit```
 - ```victims```
